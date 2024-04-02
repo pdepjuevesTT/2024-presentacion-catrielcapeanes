@@ -1,6 +1,6 @@
 # Hola!
 ## Presentación:
-Buenas, mi nombre es Catriel Capeanes, tengo 23 años, soy de General San Martin y este es mi segundo año en la carrera, pero no en la UTN. Empece cursando en 2018 Ingenieria Industrial, me quedé en segundo año y deje un tiempo la facultad por cuestiones de la vida. El año pasado hice el cambio a Sistemas porque sentia que Industrial ya no era lo mio y acá estoy.
+Buenas, mi nombre es Catriel Capeanes, tengo 23 años, soy de General San Martín y este es mi segundo año en la carrera, pero no en la UTN. Empece cursando en 2018 Ingenieria Industrial, me quedé en segundo año y dejé un tiempo la facultad por cuestiones de la vida. El año pasado hice el cambio a Sistemas porque sentia que Industrial ya no era lo mio y acá estoy.
 
 ## Cosas que me gustan:
 - Viajar y conocer lugares nuevos
